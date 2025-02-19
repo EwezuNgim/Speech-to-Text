@@ -1,0 +1,7 @@
+streamlit
+soundfile 
+transformers
+num2words 
+tempfile
+torch
+datasets
